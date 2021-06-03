@@ -4,6 +4,8 @@
 
 I am currently working on my SQL skills. 
 
+Contact me: https://www.linkedin.com/in/kasparsbelovs/
+
 ---
 
 Toolbox: <image src = "https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="50" height="50" /> <image src = "https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" width="50" height="50" />
@@ -15,7 +17,7 @@ Toolbox: <image src = "https://github.com/devicons/devicon/blob/master/icons/csh
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KasparsBelovs&hide=java&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KasparsBelovs&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
