@@ -1,5 +1,5 @@
 ### Hi, My name is Kaspars Belovs and this is my GitHub profile. 
-<img src = "https://media.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" width = "60px">
+<img src = "https://media.giphy.com/media/dBaeya4UCWCzhuLZ5v/giphy.gif" width = "60px"> <img src = "https://media.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" width = "60px"> <img src = "https://media.giphy.com/media/dBaeya4UCWCzhuLZ5v/giphy.gif" width = "60px">
 
 ---
 I am working with C#
