@@ -1,8 +1,8 @@
-### Hi there <img src = "https://media.giphy.com/media/WtOkaikiwaR87ZvAFH/giphy.gif" width = "30px">, I am Kaspars and this is my GitHub profile.
+### Hi there <img src = "https://media.giphy.com/media/WtOkaikiwaR87ZvAFH/giphy.gif" width = "30px">, I am Kaspars Belovs and this is my GitHub profile.
 
 ---
-
-I am currently working on my SQL skills. 
+I am working with C#
+and currently working on my SQL skills. 
 
 Contact me: https://www.linkedin.com/in/kasparsbelovs/
 
