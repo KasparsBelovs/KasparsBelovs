@@ -1,4 +1,4 @@
-### Hi there <img src = "https://media.giphy.com/media/WtOkaikiwaR87ZvAFH/giphy.gif" width = '30px>, I am Kaspars and this is my GitHub profile
+### Hi there <img src = "https://media.giphy.com/media/WtOkaikiwaR87ZvAFH/giphy.gif" width = "30px">, I am Kaspars and this is my GitHub profile
 
 <!--
 **KasparsBelovs/KasparsBelovs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
