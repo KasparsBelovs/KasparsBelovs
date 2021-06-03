@@ -2,7 +2,7 @@
 
 ---
 
-I am currently working on my SQL skills. After that I will start my first public project.
+I am currently working on my SQL skills. 
 
 ---
 
@@ -14,6 +14,8 @@ Toolbox: <image src = "https://github.com/devicons/devicon/blob/master/icons/csh
 <image src = "https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50" height="50" />
 
 ---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KasparsBelovs&hide=java&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
