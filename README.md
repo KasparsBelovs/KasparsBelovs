@@ -9,7 +9,7 @@ Contact me: https://www.linkedin.com/in/kasparsbelovs/
 
 ---
 
-Toolbox: <image src = "https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="50" height="50" /> <image src = "https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" width="50" height="50" />
+Tools that I am using: <image src = "https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="50" height="50" /> <image src = "https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" width="50" height="50" />
 <image src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50" />
 <image src = "https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="50" height="50" />
 <image src = "https://cdn.worldvectorlogo.com/logos/sqlite.svg" width="50" height="50" />
