@@ -1,4 +1,4 @@
-### Hi there <img src = "https://media.giphy.com/media/WtOkaikiwaR87ZvAFH/giphy.gif" width = "30px">, I am Kaspars Belovs and this is my GitHub profile.
+### Hi, My name is Kaspars Belovs and this is my GitHub profile.  <img src = "https://media.giphy.com/media/WtOkaikiwaR87ZvAFH/giphy.gif" width = "30px"> <img src = "https://media.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" width = "50px">
 
 ---
 I am working with C#
